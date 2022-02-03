@@ -17,11 +17,11 @@ div.container {
 }
 
 header {
-	background-color: rgb(254,125,0); 
-	padding:2em 2em 2em; 
+	background-color: rgb(254,136,0); 
+	padding:2em 2em 1.5em 2em; 
 }
 main {
-	padding:2em 2em 2em;  
+	padding:0em 1em 1em 0em;  
 }
 
 h1 {
@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-	color:rgb(249,249,249); 
+	color:rgb(255,211,167); 
 	font-family:Sutro, serif;
 	font-weight:300; 
 	font-style:normal;
@@ -45,7 +45,7 @@ h3 {
 	font-family:Sutro, serif; 
 	font-weight:300; 
 	font-style:normal;
-	color:rgb(254,125,0); 
+	color:rgb(254,136,0); 
 	margin:0em 0em 1em 0em; 
     text-transform:uppercase;
 	letter-spacing:.1em;
