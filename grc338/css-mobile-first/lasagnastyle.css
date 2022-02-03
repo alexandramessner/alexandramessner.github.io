@@ -52,7 +52,7 @@ h3 {
 }
 
 li {
-	margin:0em 0em .5em 0em; 
+	margin:1em 1em 1em 1.5em; 
 }
 
 figcaption {
@@ -60,7 +60,7 @@ figcaption {
 	font-weight:400; 
 	font-style:italic; 
 	color:rgb(0,0,0); 
-	padding:1em 1em 0em 2em; 
+	padding:1em 1em 0em 1.5em; 
 }
 
 li {
@@ -70,7 +70,7 @@ li {
 }
 
 ul, ol {
-	margin:0em 0em 3em 0em;  
+	margin:0em 0em 0em 0em;  
 }
 
 footer {
