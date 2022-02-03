@@ -29,7 +29,7 @@ h1 {
 	font-family:Sutro, serif; 
 	font-weight:700; 
 	font-style:normal;
-	margin-bottom:.5em; 
+	margin-bottom:.25em; 
 }
 
 h2 {
@@ -52,7 +52,7 @@ h3 {
 }
 
 li {
-	margin:1em 1em 1em 1.5em; 
+	margin:1em 1em 1em 1.75em; 
 }
 
 figcaption {
@@ -60,7 +60,7 @@ figcaption {
 	font-weight:400; 
 	font-style:italic; 
 	color:rgb(0,0,0); 
-	padding:1em 1em 0em 1.5em; 
+	padding:1em 1em 0em 1.75em; 
 }
 
 li {
@@ -70,7 +70,7 @@ li {
 }
 
 ul, ol {
-	margin:0em 0em 0em 0em;  
+	margin-bottom:2.75em;  
 }
 
 footer {
