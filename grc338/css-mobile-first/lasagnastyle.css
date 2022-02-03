@@ -17,7 +17,7 @@ div.container {
 }
 
 header {
-	background-color: rgb(254,136,0); 
+	background-color: rgb(254,136,49); 
 	padding:2em 2em 1.5em 2em; 
 }
 main {
@@ -45,7 +45,7 @@ h3 {
 	font-family:Sutro, serif; 
 	font-weight:300; 
 	font-style:normal;
-	color:rgb(254,136,0); 
+	color:rgbrgb(254,136,49); 
 	margin:0em 0em 1em 0em; 
     text-transform:uppercase;
 	letter-spacing:.1em;
@@ -74,7 +74,7 @@ ul, ol {
 }
 
 footer {
-	background-color:rgb(254,125,0);  
+	background-color:rgbrgb(254,136,49);  
 	color:rgb(249,249,249);
 	padding:1em 1em 1em 1em; 
 }
