@@ -21,7 +21,7 @@ header {
 	padding:2em 2em 1.5em 2em; 
 }
 main {
-	padding:0em 1em 1em 1.5em;  
+	padding:0em 1em 1em 0em;  
 }
 
 h1 {
@@ -46,13 +46,13 @@ h3 {
 	font-weight:300; 
 	font-style:normal;
 	color:rgb(254,136,49); 
-	margin:1em 1em 0em .5em; 
+	margin:1.5em 1em 1em 1.5em; 
     text-transform:uppercase;
 	letter-spacing:.1em;
 }
 
 li {
-	margin:1em 1em 1em 1.5em; 
+	margin:1em 1em 1em 1.75em; 
 }
 
 figcaption {
@@ -60,7 +60,7 @@ figcaption {
 	font-weight:400; 
 	font-style:italic; 
 	color:rgb(0,0,0); 
-	padding:1em 1em 0em 1.5em; 
+	padding:1em 1em 0em 1.75em; 
 }
 
 li {
@@ -70,7 +70,7 @@ li {
 }
 
 ul, ol {
-	margin-bottom:2.5em;  
+	margin-bottom:2.75em;  
 }
 
 footer {
