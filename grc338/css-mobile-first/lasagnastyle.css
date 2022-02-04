@@ -21,7 +21,7 @@ header {
 	padding:2em 2em 1.5em 2em; 
 }
 main {
-	padding:0em 1em 1em 0em;  
+	padding:0em 1em 1em 1.5em;  
 }
 
 h1 {
@@ -46,13 +46,13 @@ h3 {
 	font-weight:300; 
 	font-style:normal;
 	color:rgb(254,136,49); 
-	margin:1.5em 1em 1em 1.5em; 
+	margin:1em 1em 1.5em 1em; 
     text-transform:uppercase;
 	letter-spacing:.1em;
 }
 
 li {
-	margin:1em 1em 1em 1.75em; 
+	margin:1em 1em 1.5em 1em; 
 }
 
 figcaption {
