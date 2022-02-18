@@ -1,0 +1,108 @@
+/*CSS DOCUMENT*/
+
+img {
+	width: 100%;
+}
+
+nav ul li {
+	display: inline;
+}
+
+figure {
+	margin: 0;
+}
+
+a {
+	color: rgb(141, 166, 176);
+	text-decoration: none;
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 1em 1em 1em 0em;
+	letter-spacing: .1em;
+}
+
+
+}
+body {
+	background-color: rgb(243, 239, 234);
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+div.container {
+	background-color: rgb(243, 239, 234);
+}
+header {
+	background-color: rgb(195, 64, 52);
+	padding: 2em 2em 1.5em 2em;
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+main {
+	padding: 0em 1em 1em 0em;
+}
+h1 {
+	width: 15em;
+	margin-bottom: .25em;
+}
+h2 {
+	color: rgb(195, 64, 52);
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	text-transform: uppercase;
+	margin-bottom: 0em;
+	margin-left: 1em;
+	letter-spacing: .1em;
+}
+h3 {
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: rgb(195, 64, 52);
+	margin: 1.5em 1em 1em 1.25em;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+h4 {
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: rgb(0, 0, 0);
+	margin: 0em;
+}
+ul {
+	padding: 0em
+}
+li {
+	font-family: tc-avant-garde-gothic-pro, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	list-style: none;
+	margin: 1em 0em 1em 1.5em;
+}
+p {
+	font-family: tc-avant-garde-gothic-pro, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	margin: 1em 1em 1em 1.5em;
+}
+footer {
+	background-color: rgb(195, 64, 52);
+	color: rgb(243, 239, 234);
+	padding: .5em .5em .5em 1.5em;
+	font-family: rig-shaded-bold-face, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+p.price {
+	font-style: italic;
+	color: rgb(195, 64, 52);
+	margin: 0;
+}
+p.description {
+	margin: 0;
+}
+COPY TO CLIPBOARD SELECT ALL
