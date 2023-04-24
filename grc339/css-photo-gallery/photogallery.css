@@ -58,8 +58,8 @@ input:nth-of-type(4):checked ~ main figure:nth-of-type(4){
 }
 
 nav {
-    display: flex;
-    grid-template-columns: 4;
+    display: grid;
+    grid-template-columns: .5fr .5fr .5fr .5fr;
     grid-gap: .2em;
 }
 
